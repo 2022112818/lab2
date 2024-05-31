@@ -11,7 +11,7 @@ import java.util.*;
  * <p>PS2 instructions: you MUST use the provided rep.
  */
 public class ConcreteEdgesGraph<L> implements Graph<L> {
-    
+    //lab注释
     private final Set<L> vertices = new HashSet<>();
     private final List<Edge<L>> edges = new ArrayList<>();
     
